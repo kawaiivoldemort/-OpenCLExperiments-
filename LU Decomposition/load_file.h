@@ -1,0 +1,1 @@
+const char* load_file(char*);
